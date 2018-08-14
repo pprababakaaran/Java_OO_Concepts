@@ -1,4 +1,4 @@
-package com.honeywell.test;
+package com.javapapers.java;
 
 public class MagicString {
 

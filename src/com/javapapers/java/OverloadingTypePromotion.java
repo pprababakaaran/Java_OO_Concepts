@@ -12,6 +12,6 @@ public class OverloadingTypePromotion {
 
 	public static void main(String args[]) {
 		OverloadingTypePromotion obj = new OverloadingTypePromotion();
-		obj.sum(20, 20);// now ambiguity
+		//obj.sum(20, 20);// now ambiguity
 	}
 }
