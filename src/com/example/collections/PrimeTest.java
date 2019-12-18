@@ -5,7 +5,7 @@ public class PrimeTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println(isPrime(3));
+		System.out.println(isPrime(5));
 	}
 
 	public static boolean isPrime(int number) {
